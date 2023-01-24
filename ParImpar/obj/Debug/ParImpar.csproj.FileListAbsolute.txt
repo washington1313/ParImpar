@@ -1,0 +1,8 @@
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\ParImpar\ParImpar\bin\Debug\ParImpar.exe.config
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\ParImpar\ParImpar\bin\Debug\ParImpar.exe
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\ParImpar\ParImpar\bin\Debug\ParImpar.pdb
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\ParImpar\ParImpar\obj\Debug\ParImpar.csproj.AssemblyReference.cache
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\ParImpar\ParImpar\obj\Debug\ParImpar.csproj.SuggestedBindingRedirects.cache
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\ParImpar\ParImpar\obj\Debug\ParImpar.csproj.CoreCompileInputs.cache
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\ParImpar\ParImpar\obj\Debug\ParImpar.exe
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\ParImpar\ParImpar\obj\Debug\ParImpar.pdb
